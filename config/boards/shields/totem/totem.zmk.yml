@@ -1,6 +1,6 @@
 file_format: "1"
-id: totemv2
-name: TOTEMv2
+id: totem
+name: TOTEM
 type: shield
 url: https://github.com/GEIGEIGEIST/TOTEM
 requires: [seeeduino_xiao_ble]
